@@ -1,0 +1,6 @@
+1- Decide where you will create the repository (Repository will be created at the project level because if we place it in a source file for example, it's won't be able to track the other files under the project.
+2-Navigate the terminal to the right location
+3-Initialize the empty git repo--> git init
+4- git status--> untracked files-- all red color 
+5- Add all files to staging area (so the git starts tracking them--> git add .
+6- Add all files to the repository--> git commit -m "commit message"
